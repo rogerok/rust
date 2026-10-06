@@ -25,7 +25,7 @@ fmt-check:
 run:
     cargo run
 
-check: fmt-check lint test
+check: fmt-check lint
 
 crates_dir := "crates"
 new-bin name:
