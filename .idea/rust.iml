@@ -6,6 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/craates/some/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/some/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/l-01-setup/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/l-02-basics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/l-02-basics/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/l-03-ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/l-03-ownership/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

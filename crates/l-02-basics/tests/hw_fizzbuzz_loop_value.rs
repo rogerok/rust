@@ -1,7 +1,7 @@
 use std::process::Command;
 
 fn program_output() -> String {
-    let output = Command::new(env!("CARGO_BIN_EXE_rust"))
+    let output = Command::new(env!("CARGO_BIN_EXE_l-02-basics"))
         .output()
         .expect("Не удалось запустить программу");
 
