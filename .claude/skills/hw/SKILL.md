@@ -11,7 +11,7 @@ Argument: lesson number or homework ID (`$ARGUMENTS`); default to the lesson in 
 ## 1. Prepare
 
 1. Fetch the lesson page and copy each homework's exact wording (ID, stars, text).
-2. Ensure the lesson crate exists: `crates/l-NN-<short-name>` as a lib crate (`just new-lib l-NN-<short-name>`, then empty out the generated `lib.rs`), with a lesson journal `JOURNAL.md` copied in structure from an earlier lesson's journal: sections for pre-drill, each homework's questions, Feynman explanation, JS junior's questions.
+2. Ensure the lesson crate exists: `crates/l-NN-<short-name>` as a lib crate (`just new-lib l-NN-<short-name>`, then empty out the generated `lib.rs`), with a lesson journal `JOURNAL.md` copied in structure from an earlier lesson's journal: sections for pre-drill and each homework's questions.
 3. Classify each homework:
    - **checkable** → red tests + stubs, following CLAUDE.md → Red tests and stubs;
    - **prediction** (predict-then-run, widget walkthroughs) → a journal section, no tests;

@@ -7,10 +7,10 @@ Milestone: lessons 01–17.
 
 ## Current cycle
 
-- lesson: 03
-- step: feynman (reading question deferred: ask before Feynman)
-- homework: all ✓; open: describe2 &String question parked for l-04
-- pre-drill done: yes
+- lesson: 04
+- step: warm-up
+- homework: —
+- pre-drill done: no
 - last warm-up: 2026-10-18
 
 Steps, in order: `warm-up` → `pre-drill` → `reading` → `homework` → `feynman` → `review` → `quiz` → `close`.
@@ -27,8 +27,8 @@ Completion criteria (all four, or the learner declares the lesson completed):
 |---|------|-------|----------------|---------|------|---------|--------|
 | 01 | 01-why-rust-setup | l-01-setup | — | — | — | — | completed (before the system) |
 | 02 | 02-basic-types-control-flow | l-02-basics | FIZZBUZZ, LOOP-VALUE red: solution never committed | — | — | ✓ (2/3, 2026-10-18) | completed (before the system) |
-| 03 | 03-ownership-move-copy | l-03-ownership | FIX-MOVE ✓, GUARD ✓, PREDICT ✓, WIDGET ✓ (declared done by learner) | ✗ | ✗ | ✗ | in progress |
-| 04 | 04-borrowing-references-slices | — | | | | | not started |
+| 03 | 03-ownership-move-copy | l-03-ownership | FIX-MOVE ✓, GUARD ✓, PREDICT ✓, WIDGET ✓ (declared done by learner) | ✓ (oral) | ✓ | ✗ | awaiting warm-up criterion (next sitting) |
+| 04 | 04-borrowing-references-slices | — | | | | | next; open: describe2 `&String` question from l-03 |
 | 05 | 05-structs-and-methods | | | | | | |
 | 06 | 06-enums-pattern-matching | | | | | | |
 | 07 | 07-collections-and-strings | | | | | | |

@@ -73,7 +73,7 @@ Four levels of help: guiding question → where to look → code fragment → fu
 _Avoid_: hints, help
 
 **Feynman explanation** (Объяснение по Фейнману):
-The learner's plain-language retelling of the lesson, written in the lesson journal and then interrogated by the JS junior until no gaps remain.
+The learner's plain-language retelling of the lesson's central idea, spoken in chat in answer to the JS junior's questions until no gaps remain; nothing is written down.
 _Avoid_: summary, notes
 
 **JS junior** (JS-джун):
@@ -91,7 +91,7 @@ _Avoid_: pre-test code review
 ### Reflection
 
 **Lesson journal** (Журнал урока):
-The learner's notes for one lesson, including the Feynman explanation.
+The learner's notes for one lesson: pre-drill results, predictions and homework answers.
 _Avoid_: notes, summary
 
 **Mistake log** (Журнал ошибок):
