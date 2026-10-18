@@ -1,4 +1,18 @@
-// HW-RS-03-GUARD: define ConnectionGuard here and create two guards named "first" and "second".
+struct ConnectionGuard {
+    name: String,
+}
+
+impl Drop for ConnectionGuard {
+    fn drop(&mut self) {
+        println!("connection {} closed ", self.name);
+    }
+}
+
 fn main() {
-    todo!("HW-RS-03-GUARD")
+    let _f = ConnectionGuard {
+        name: String::from("first"),
+    };
+    let _s = ConnectionGuard {
+        name: String::from("second"),
+    };
 }
