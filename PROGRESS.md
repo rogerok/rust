@@ -8,10 +8,10 @@ Milestone: lessons 01–17.
 ## Current cycle
 
 - lesson: 04
-- step: warm-up
+- step: reading
 - homework: —
-- pre-drill done: no
-- last warm-up: 2026-10-18
+- pre-drill done: yes
+- last warm-up: 2026-10-19
 
 Steps, in order: `warm-up` → `pre-drill` → `reading` → `homework` → `feynman` → `review` → `quiz` → `close`.
 
